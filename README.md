@@ -1,6 +1,6 @@
 # Artur Vinicius Gomes da Silva
 
-**Desenvolvedor Júnior | Suporte de Sistemas Júnior**
+**Desenvolvedor Fullstack | Suporte de Sistemas Júnior**
 
 Sou bacharel em **Sistemas de Informação pelo Centro Universitário Una**, com graduação concluída em 2025. Busco minha primeira oportunidade nas áreas de desenvolvimento ou suporte de sistemas. Minha prática técnica vem de projetos pessoais e de estudo, que uso para exercitar regras de negócio, integração de aplicações e investigação de problemas.
 
